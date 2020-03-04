@@ -6,5 +6,6 @@ header {
     background-image: url('assets/images/banner.jpg');
     height: 226px;
     width: 512px;
+    margin: auto;
     
 }
