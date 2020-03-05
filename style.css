@@ -7,5 +7,10 @@ header {
     height: 226px;
     width: 512px;
     margin: auto;
-    
+}
+
+.t-vid {
+    margin-top: 2rem; 
+    margin-left: 2rem;
+    display: flex;
 }
