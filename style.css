@@ -2,6 +2,10 @@ html {
   background-color: #dcdbd8;
 }
 
+main {
+    
+}
+
 header {
   background-image: url("assets/images/banner.jpg");
   height: 226px;
@@ -24,8 +28,10 @@ section {
 }
 
 .vid-info {
-    float: right;
     padding: .5rem;
+    padding-bottom: 0;
+    margin-top: 3rem;
+    margin-bottom: 0;
 }
 
 .songs {
