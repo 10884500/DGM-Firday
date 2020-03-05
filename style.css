@@ -1,16 +1,34 @@
 html {
-    background-color: #DCDBD8;
+  background-color: #dcdbd8;
 }
 
 header {
-    background-image: url('assets/images/banner.jpg');
-    height: 226px;
-    width: 512px;
+  background-image: url("assets/images/banner.jpg");
+  height: 226px;
+  width: 512px;
+  margin: auto;
+}
+
+section {
     margin: auto;
 }
 
 .t-vid {
-    margin-top: 2rem; 
-    margin-left: 2rem;
-    display: flex;
+  margin-top: 2rem;
+  margin-left: 2rem;
+  display: flex;
 }
+
+.tracks {
+    display: block;
+}
+
+.vid-info {
+    float: right;
+    padding: .5rem;
+}
+
+.songs {
+    vertical-align: middle;
+}
+
